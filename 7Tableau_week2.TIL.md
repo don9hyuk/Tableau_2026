@@ -304,10 +304,9 @@ Latitude - 위도
 ```
 
 ```
-![.](image/soltwo.png)
+
 ```
-
-
+![.](image/soltwo.png)
 
 ### 참고 자료
 
