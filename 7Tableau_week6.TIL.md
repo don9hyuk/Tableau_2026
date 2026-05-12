@@ -64,15 +64,13 @@
 
 <!-- 워크시트에 관해 본 강의에서 알게 된 점을 적어주세요 -->
 
-![alt text](image-1.png)
-
+![alt text](image-13.png)
 
 ## 49강. 대시보드패널
 
 <!-- 대시보드패널 강의에서 알게 된 점을 적어주세요. -->
 
-![alt text](image-2.png)
-
+![alt text](image-14.png)
 
 ## 50. 대시보드 구성방식
 
@@ -96,53 +94,48 @@
 <!-- 대시보드 컨테이너에 대해 알게 된 점을 적어주세요. -->
 컨테이너: 대시보드 개체들과 워크시트들을 그룹화하고 구성할 수 있는 공간
 
-![alt text](image-3.png)
+![alt text](image-15.png)
 
 
 ## 52. 레이아웃 패널
 
 <!-- 레이아웃 패널에 대해 알게 된 점을 적어주세요. -->
-![alt text](image-4.png)
-
+![alt text](image-16.png)
 
 ## 53. 필터 동작
 
 <!-- 필터 동작에 대해 알게 된 점을 적어주세요. -->
-![alt text](image-5.png)
-
+![alt text](image-17.png)
 
 
 ## 54. 대시보드 하이라이터 동작
 
 <!-- 하이라이터에 대해 알게 된 점을 적어주세요. -->
-![alt text](image-6.png)
-
+![alt text](image-18.png)
 
 
 ## 55. 대시보드 URL
 
 <!-- URL에 대해 알게 된 점을 적어주세요 -->
-![alt text](image-7.png)
+![alt text](image-19.png)
 
-![alt text](image-8.png)
-
+![alt text](image-20.png)
 
 ## 56. 대시보드 시트에 이동 동작
 
 <!-- 대시보드 시트에 이동에 대해 알게 된 점을 적어주세요.-->
-![alt text](image-9.png)
+![alt text](image-21.png)
 
-![alt text](image-10.png)
- 
-![alt text](image-11.png)
+![alt text](image-22.png) 
+
+![alt text](image-23.png)
 
 
 ## 57. 매개변수 변경 동작
 
 <!-- 매개변수 변경 동작에 대해 알게 된 점을 적어주세요.-->
 
-![alt text](image-12.png)
-
+![alt text](image-24.png)
 
 # 확인 문제
 
@@ -162,7 +155,8 @@
 
 어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ee15730-81b7-44ae-9fa4-d7e63209166d" />
+![alt text](image-25.png)
+
 
 개밤티대시보드
 
